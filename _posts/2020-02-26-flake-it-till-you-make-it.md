@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: 안뇽
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: ../증사.jpg
 thumbnail-img: /assets/img/thumb.png
