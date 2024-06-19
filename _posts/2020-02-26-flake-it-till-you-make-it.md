@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Suah Yu, 유수아
+title: Suah Yu
+## 유수아
 subtitle: Believe in yourself
-cover-img: ![/assets/img/path.jpg](/assets/img/path.jpg)
-thumbnail-img: ![/assets/img/me.jpg](/assets/img/me.jpg)
+cover-img: ![path](/assets/img/path.jpg)
+thumbnail-img: ![me](/assets/img/me.jpg)
 share-img: ![/assets/img/path.jpg](/assets/img/path.jpg)
 tags: [books, test]
 ---
