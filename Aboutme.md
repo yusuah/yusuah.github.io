@@ -2,12 +2,9 @@
 layout: page
 title: About Me
 subtitle: Suah Yu, 유수아
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/me.jpg
-share-img: /assets/img/path.jpg
 ---
-<img align="right" src="./assets/img/me.jpg", height="100x", 
-width="100px">
+![me](/assets/img/me.jpg)
+<img src="/assets/img/me.jpg" align="right">
 
 ### Introduction
 I am a B.S. student at Gwangju Institute of Science and Technology(GIST). 
