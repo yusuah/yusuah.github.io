@@ -19,6 +19,6 @@ My research interest lies in simulating character motion and facial animation. T
 ### Contact
 
 - suayu123@gm.gist.ac.kr
-- [Github](https://github.com/yusuah)
+- [Github](https://github.com/yusuah/yusuah.github.io)
 
 

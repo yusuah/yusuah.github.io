@@ -20,12 +20,8 @@ title: SUA's page
 ###############################################
 
 navbar-links:
-  Research: "research"
+  Aboutme : "Aboutme"
   Publications: "publications"
-  Blog: "blog"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -52,7 +48,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "suayu123@gm.gist.ac.kr"
-  github: https://github.com/yusuah
+  github: https://github.com/yusuah/yusuah.github.io
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
