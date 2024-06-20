@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Suah Yu, 유수아
 ---
-<img src="/assets/img/me.jpg" align="right" height="100px" width="100px">
+<img src="/assets/img/me.jpg" align="right" height="200px" width="150px">
 
 ### Introduction
 
