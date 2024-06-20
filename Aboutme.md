@@ -6,10 +6,9 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/me.jpg
 share-img: /assets/img/path.jpg
 ---
+<img align="right" src="./assets/img/me.jpg", height="100x", width="100px">
 ### Introduction
-
 I am a B.S. student at Gwangju Institute of Science and Technology(GIST). 
-
 My research interest lies in simulating character motion and facial animation. The research area includes human interaction system to enhance visual experience.
 
 ### Work Experience
