@@ -3,9 +3,10 @@ layout: page
 title: About Me
 subtitle: Suah Yu, 유수아
 ---
+<img src="/assets/img/me.jpg" align="right" height="40px" width="40px">
 
 ### Introduction
-<img src="/assets/img/me.jpg" align="right">
+
 I am a B.S. student at Gwangju Institute of Science and Technology(GIST). 
 My research interest lies in simulating character motion and facial animation. The research area includes human interaction system to enhance visual experience.
 
