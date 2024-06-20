@@ -13,8 +13,6 @@ author: Bill Smith
 
 ## About me
 
-[Github](https://github.com/yusuah)
-
 Here's a table:
 
 | Number | Next number | Previous number |
