@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About Me
 subtitle: Suah Yu, 유수아
 ---
