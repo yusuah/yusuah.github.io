@@ -21,7 +21,7 @@ title: SUA's page
 
 navbar-links:
   Aboutme : "Aboutme"
-  Publications: "publications"
+  Publications: "_publications"
 
 ################
 # --- Logo --- #
