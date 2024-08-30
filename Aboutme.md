@@ -16,7 +16,7 @@ My research interest lies in simulating character motion and facial animation. T
 
 
 ### Project
-- <Multi-Modal LLM Based Keyword Analysis and English Vocabulary Generation> Website Release
+- Multi-Modal LLM Based Keyword Analysis and English Vocabulary Generation Website Release
 (Frontend Developer)
 
 
