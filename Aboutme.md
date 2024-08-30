@@ -14,11 +14,17 @@ My research interest lies in simulating character motion and facial animation. T
 - Internship at KAIST LAVA Lab (2024/07/01 - 2024/08/10)
 
 
+
 ### Project
-- Website Development : Multi-Modal LLM Based Keyword Analysis and English Vocabulary Generation(Frontend Developer)
+- <Multi-Modal LLM Based Keyword Analysis and English Vocabulary Generation> Website Release
+(Frontend Developer)
+
+
 
 ### Skills
 - Python, C language
+
+
 
 ### Contact
 
